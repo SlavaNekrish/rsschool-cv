@@ -25,7 +25,7 @@ _I believe, that my ability to learn and to gain new skills will lead me through
 
 ![Skills](img//Skills.png)
 
-### CODE
+### CODE EXAMPLE
 
 ```javascript
 function withRainbowFrame(colors) {
@@ -41,33 +41,56 @@ function withRainbowFrame(colors) {
 }
 ```
 
-### EXPERIENCE
+### WORK EXPERIENCE
 
 SPA React Ishop
 Apr 2023
 
-![ItAcademy](images/ItAcademy.png) During internship in IT Academy
+![ItAcademy](img//ItAcademy.png) During internship in IT Academy
 
 The graduation project of the third React Single Page App “Ishop” . This project
 was made using React, Redux Toolkit, React Router.
 
-![Arrow](images/Arrow.png) [See the project](https://slavanekrish.github.io/react-ishop/)
+![Arrow](img/Arrow.png) [See the project](https://slavanekrish.github.io/react-ishop/)
 
 Browser game with JS
 Sep 2022 - Oct 2022
 
-![ItAcademy](images/ItAcademy.png) During internship in IT Academy
+![ItAcademy](img/ItAcademy.png) During internship in IT Academy
 
 The graduation project of the second course named Tanks 2D the browser game.
 This game was made using JS ES6, SPA-app, OOP, DOM.
 
-![Arrow](images/Arrow.png) [See the project](https://slavanekrish.github.io/Nekrish-FD2-119-22/!!Tanks!!/index.html)
+![Arrow](img/Arrow.png) [See the project](https://slavanekrish.github.io/Nekrish-FD2-119-22/!!Tanks!!/index.html)
 
 Adaptive website with JS, flex, Bootstrap, SCSSAdaptive website with JS, flex, Bootstrap, SCSS
 Jun 2022 - Jun 2022
 
-![ItAcademy](images/ItAcademy.png) During internship in IT Academy
+![ItAcademy](img/ItAcademy.png) During internship in IT Academy
 
 The graduation project of the first course named "The website of online store". The layout is made according to the layout provided in the Figma. Auto-completion of product cards was implemented with the help of JS. The project was made using flex, Bootstrap 5V, SCSS preprocessor. The website page is responsive. There is also a mobile version made in different style.
 
-![Arrow](images/Arrow.png) [See the project](https://slavanekrish.github.io/FD1-182-22/HomeWork/Graduation%20work/index1P.html)
+![Arrow](img/Arrow.png) [See the project](https://slavanekrish.github.io/FD1-182-22/HomeWork/Graduation%20work/index1P.html)
+
+### EDUCATION
+
+#### IT-Academy
+
+![ItAcademy](images/ItAcademy.png) 2022 - Apr 2023
+
+1. Course 0. Computer Science. [Course program](https://www.it-academy.by/course/asp-net-developer/osnovy-computer-science/)
+2. Course 1. Website development using HTML, CSS, and JavaScript. [Course program](https://www.it-academy.by/course/front-end-developer/fd1-razrabotka-veb-saytov-s-ispolzovaniem-html-css-i-javascript/) [The Certificate](https://disk.yandex.ru/i/jqqPHKDt3YDCBw)
+3. Course 2. JavaScript web application development. [Course program](https://www.it-academy.by/course/front-end-developer/fd1-razrabotka-veb-saytov-s-ispolzovaniem-html-css-i-javascript/) [The Certificate](https://disk.yandex.ru/i/O1RWvrMJR5ECvw)
+4. Course 3. Web Application development using React The Certificate. [Course program](https://www.it-academy.by/course/front-end-developer/fd3-razrabotka-veb-prilozheniy-na-react-i-angular/) [The Certificate](https://disk.yandex.ru/i/xV8_wKPPwMcojw)
+
+#### Belarusian National Technical University
+
+Sep 2006 - Jul 2012
+Speciality: Power supply, power engineer
+
+### ENGLISH LANGUAGE
+
+Nov 2022 - Sep 2023
+Upper Intermediate B2 [The Certificate](https://disk.yandex.ru/i/z16A14EE9Lp-qA)
+
+![Линия](img/Line.png)
