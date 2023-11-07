@@ -76,7 +76,7 @@ The graduation project of the first course named "The website of online store". 
 
 #### IT-Academy
 
-![ItAcademy](images/ItAcademy.png) 2022 - Apr 2023
+![ItAcademy](img/ItAcademy.png) 2022 - Apr 2023
 
 1. Course 0. Computer Science. [Course program](https://www.it-academy.by/course/asp-net-developer/osnovy-computer-science/)
 2. Course 1. Website development using HTML, CSS, and JavaScript. [Course program](https://www.it-academy.by/course/front-end-developer/fd1-razrabotka-veb-saytov-s-ispolzovaniem-html-css-i-javascript/) [The Certificate](https://disk.yandex.ru/i/jqqPHKDt3YDCBw)
