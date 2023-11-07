@@ -23,7 +23,7 @@ _I believe, that my ability to learn and to gain new skills will lead me through
 
 ### SKILLS
 
-![Skills](images/Skills.png)
+![Skills](img//Skills.png)
 
 ### CODE
 
