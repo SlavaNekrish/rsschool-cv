@@ -40,3 +40,34 @@ function withRainbowFrame(colors) {
   };
 }
 ```
+
+### EXPERIENCE
+
+SPA React Ishop
+Apr 2023
+
+![ItAcademy](images/ItAcademy.png) During internship in IT Academy
+
+The graduation project of the third React Single Page App “Ishop” . This project
+was made using React, Redux Toolkit, React Router.
+
+![Arrow](images/Arrow.png) [See the project](https://slavanekrish.github.io/react-ishop/)
+
+Browser game with JS
+Sep 2022 - Oct 2022
+
+![ItAcademy](images/ItAcademy.png) During internship in IT Academy
+
+The graduation project of the second course named Tanks 2D the browser game.
+This game was made using JS ES6, SPA-app, OOP, DOM.
+
+![Arrow](images/Arrow.png) [See the project](https://slavanekrish.github.io/Nekrish-FD2-119-22/!!Tanks!!/index.html)
+
+Adaptive website with JS, flex, Bootstrap, SCSSAdaptive website with JS, flex, Bootstrap, SCSS
+Jun 2022 - Jun 2022
+
+![ItAcademy](images/ItAcademy.png) During internship in IT Academy
+
+The graduation project of the first course named "The website of online store". The layout is made according to the layout provided in the Figma. Auto-completion of product cards was implemented with the help of JS. The project was made using flex, Bootstrap 5V, SCSS preprocessor. The website page is responsive. There is also a mobile version made in different style.
+
+![Arrow](images/Arrow.png) [See the project](https://slavanekrish.github.io/FD1-182-22/HomeWork/Graduation%20work/index1P.html)
